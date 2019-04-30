@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{5273A8BE-7766-94C5-1B46-D4F01755A334}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bow.cs" Line="108" Column="9" />
+      <File FileName="Assets/Scripts/BalloonGenerator.cs" Line="54" Column="10" />
+      <File FileName="Assets/Scripts/Balloon.cs" Line="26" Column="36" />
+      <File FileName="Assets/Scripts/Arrow.cs" Line="18" Column="18" />
+      <File FileName="Assets/Scripts/Endless.cs" Line="21" Column="10" />
+      <File FileName="Assets/Scripts/SceneController.cs" Line="33" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
